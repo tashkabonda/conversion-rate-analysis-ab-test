@@ -281,3 +281,7 @@ Product Analyst
 </div>
 
 ---
+
+<div align="center">
+Made with ❤️ for portfolio purposes
+</div>
