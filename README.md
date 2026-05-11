@@ -95,8 +95,9 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
 
 > *Screenshot of the sample size calculator used during experiment planning.*
 
-<!-- Завантаж скриншот у папку visuals/ та перейменуй відповідно -->
-![Sample Size Calculator](planning/test_planning.png)
+<!-- Калькулятор выборки  -->
+![AB Test Size Calculator](planning/abtestguide_com:abtestsize.png)
+![CXL AB Test Calculator](planning/cxl_com:ab-test-calculator.png)
 
 ---
 
@@ -155,8 +156,8 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 
 > *The confidence intervals for Group A and B **do not overlap**, visually confirming statistical significance.*
 
-<!-- Завантаж графік у папку visuals/ та перейменуй відповідно -->
-![Conversion Rate Comparison — Bar Chart with 95% CI](visuals/bar_chart_cr_comparison.png)
+<!-- Бар плот конверсии -->
+![Conversion Rate Comparison](images/conversion_rate.png)
 
 <details>
 <summary>🇺🇦 Читати українською</summary>
@@ -173,8 +174,8 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 
 > *Variant B maintained a stable advantage throughout the entire test duration, confirming result reliability.*
 
-<!-- Завантаж графік у папку visuals/ та перейменуй відповідно -->
-![Cumulative CR Dynamics Over 21 Days](visuals/cumulative_cr_dynamics.png)
+<!-- Кумулятивный график -->
+![Cumulative CR Dynamics](images/cumulative_conversion.png)
 
 <details>
 <summary>🇺🇦 Читати українською</summary>
@@ -245,21 +246,25 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 ## 📁 Repository Structure
 
 ```
-yoga-app-ab-test/
+conversion-rate-analysis-ab-test/
+│
+├── 📊 Data/
+│   └── ab_test_data.csv                     # Experiment dataset
+│
+├── 🖼️ images/
+│   ├── conversion_rate.png                  # ← Bar chart with 95% CI
+│   └── cumulative_conversion.png            # ← Cumulative CR over 21 days
 │
 ├── 📓 notebooks/
-│   └── ab_test_analysis.ipynb          # Main analysis notebook
+│   └── ab_test_analysis.ipynb               # Main analysis notebook
 │
-├── 📊 data/
-│   └── ab_test_data.csv                # Experiment dataset
+├── 📁 planning/
+│   ├── abtestguide_calculator.png           # ← Sample size calculator (abtestguide)
+│   ├── cxl_calculator.png                   # ← Sample size calculator (CXL)
+│   └── test_planning.pdf                    # Test planning document
 │
-├── 📈 visuals/
-│   ├── calculator.png                  # ← Sample size calculator screenshot
-│   ├── bar_chart_cr_comparison.png     # ← Bar chart with 95% CI
-│   └── cumulative_cr_dynamics.png      # ← Cumulative CR over 21 days
-│
-└── 📄 README.md
-```
+├── 📑 presentation/
+│   └── final_presentation.pdf               # Final presentation
 
 ---
 
@@ -267,18 +272,12 @@ yoga-app-ab-test/
 
 <div align="center">
 
-**[Your Name]**  
+**Tetiana Bondarenko**  
 Product Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=flat&logo=telegram)](https://t.me/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bondarenkotetiana)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=flat&logo=telegram)](https://t.me/@Tashkabonda)
 
 </div>
 
 ---
-
-<div align="center">
-
-*Made with ❤️ for portfolio purposes*
-
-</div>
