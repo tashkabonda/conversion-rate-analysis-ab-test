@@ -1,5 +1,5 @@
-# conversion-rate-analysis-ab-test
-A/B Test: Subscription CR Optimization. Achieved +46% conversion uplift (6.1% -> 8.9%) through psychological benefit framing . Python analysis (Z-test, Chi-squared) confirmed statistical significance (p=0.0) . Includes pre-test planning (MDE, power), sample calculation, reproducible code, and final results presentation
+<!--# conversion-rate-analysis-ab-test
+A/B Test: Subscription CR Optimization. Achieved +46% conversion uplift (6.1% -> 8.9%) through psychological benefit framing . Python analysis (Z-test, Chi-squared) confirmed statistical significance (p=0.0) . Includes pre-test planning (MDE, power), sample calculation, reproducible code, and final results presentation-->
 
 # 🧘 Yoga App · Subscription Screen CR Optimization
 
@@ -95,7 +95,7 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
 
 > *Screenshot of the sample size calculator used during experiment planning.*
 
-<!-- Калькулятор выборки  -->
+<!-- Калькулятори  -->
 <a href="planning/abtestguide_com:abtestsize.png">
   <img src="planning/abtestguide_com:abtestsize.png" height="350"/>
 </a>
@@ -103,9 +103,6 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
 <a href="planning/cxl_com:ab-test-calculator.png">
   <img src="planning/cxl_com:ab-test-calculator.png" height="350"/>
 </a>
-
-<!--![AB Test Size Calculator](planning/abtestguide_com:abtestsize.png)-->
-<!--![CXL AB Test Calculator](planning/cxl_com:ab-test-calculator.png)-->
 
 ---
 
@@ -185,13 +182,11 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 
 > *Variant B maintained a stable advantage throughout the entire test duration, confirming result reliability.*
 
-<!-- Кумулятивный график -->
+<!-- Кумулятивный графік -->
 <a href="images/cumulative_conversion.png">
   <img src="images/cumulative_conversion.png" width="500"/>
 </a>
 
-<!-- Кумулятивный график 
-![Cumulative CR Dynamics](images/cumulative_conversion.png)-->
 
 <details>
 <summary>🇺🇦 Читати українською</summary>
