@@ -96,8 +96,8 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
 > *Screenshot of the sample size calculator used during experiment planning.*
 
 <!-- Калькулятор выборки  -->
-<a href="planning/abtestguide_calculator.png">
-  <img src="planning/abtestguide_calculator.png" width="450"/>
+<a href="planning/abtestguide_com:abtestsize.png">
+  <img src="planning/abtestguide_com:abtestsize.png" width="450"/>
 </a>
 
 <a href="planning/cxl_calculator.png">
