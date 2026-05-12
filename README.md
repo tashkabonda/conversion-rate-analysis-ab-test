@@ -72,7 +72,6 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
 | 💪 **Statistical Power (1−β)** | 80% |
 | 👥 **Required Sample Size** | **5,195 users per group** |
 | 📅 **Test Duration** | 21 days |
-| 🏆 **Prioritization Method** | RICE Model |
 
 <details>
 <summary>🇺🇦 Читати українською</summary>
@@ -88,7 +87,6 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
 | 💪 **Статистична потужність (1−β)** | 80% |
 | 👥 **Необхідний розмір вибірки** | **5 195 користувачів на групу** |
 | 📅 **Тривалість тесту** | 21 день |
-| 🏆 **Метод пріоритезації** | Модель RICE |
 
 </details>
 
