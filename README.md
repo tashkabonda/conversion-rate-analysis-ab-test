@@ -164,8 +164,14 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 
 > *The confidence intervals for Group A and B **do not overlap**, visually confirming statistical significance.*
 
-<!-- Бар плот конверсии -->
-![Conversion Rate Comparison](images/conversion_rate.png)
+
+<!-- Бар плот -->
+<a href="images/conversion_rate.png">
+  <img src="images/conversion_rate.png" width="500"/>
+</a>
+
+<!-- Бар плот конверсии 
+![Conversion Rate Comparison](images/conversion_rate.png)-->
 
 <details>
 <summary>🇺🇦 Читати українською</summary>
