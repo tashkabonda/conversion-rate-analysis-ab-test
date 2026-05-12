@@ -240,7 +240,7 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 
 ## 🛠️ 7. Tech Stack
 
-<div align="center">
+<div align="left">
 
 | Tool | Purpose |
 |------|---------|
