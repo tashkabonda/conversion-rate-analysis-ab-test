@@ -276,12 +276,7 @@ conversion-rate-analysis-ab-test/
 Product Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bondarenkotetiana)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=flat&logo=telegram)](https://t.me/@Tashkabonda)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=flat&logo=telegram)](https://t.me/Tashkabonda)
 
 </div>
 
----
-
-<div align="center">
-Made with ❤️ for portfolio purposes
-</div>
