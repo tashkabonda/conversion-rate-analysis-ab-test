@@ -183,7 +183,7 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 
 <!-- Кумулятивный графік -->
 <a href="images/cumulative_conversion.png">
-  <img src="images/cumulative_conversion.png" width="500"/>
+  <img src="images/cumulative_conversion.png" width="700"/>
 </a>
 
 
