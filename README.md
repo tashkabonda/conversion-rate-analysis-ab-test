@@ -9,6 +9,7 @@ A/B Test: Subscription CR Optimization. Achieved +46% conversion uplift (6.1% ->
 ![Type](https://img.shields.io/badge/Type-A%2FB%20Test-blue?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)
 ![Uplift](https://img.shields.io/badge/CR%20Uplift-%2B46%25-brightgreen?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Educational-orange?style=for-the-badge)
 
 </div>
 
