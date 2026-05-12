@@ -100,8 +100,8 @@ This project presents a **full-cycle A/B test analysis** aimed at optimizing the
   <img src="planning/abtestguide_com:abtestsize.png" width="450"/>
 </a>
 
-<a href="planning/cxl_calculator.png">
-  <img src="planning/cxl_calculator.png" width="450"/>
+<a href="planning/cxl_com:ab-test-calculator.png">
+  <img src="planning/cxl_com:ab-test-calculator.png" width="450"/>
 </a>
 
 <!--![AB Test Size Calculator](planning/abtestguide_com:abtestsize.png)-->
