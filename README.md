@@ -3,7 +3,7 @@ A/B Test: Subscription CR Optimization. Achieved +46% conversion uplift (6.1% ->
 
 # Subscription Screen CR Optimization
 
-<div align="center">
+<div align="left">
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-A%2FB%20Test-blue?style=for-the-badge)
