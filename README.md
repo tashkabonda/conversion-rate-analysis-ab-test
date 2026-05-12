@@ -170,9 +170,6 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
   <img src="images/conversion_rate.png" width="500"/>
 </a>
 
-<!-- Бар плот конверсии 
-![Conversion Rate Comparison](images/conversion_rate.png)-->
-
 <details>
 <summary>🇺🇦 Читати українською</summary>
 
@@ -189,7 +186,12 @@ Analysis was performed in Python using **SciPy** and **Statsmodels** libraries.
 > *Variant B maintained a stable advantage throughout the entire test duration, confirming result reliability.*
 
 <!-- Кумулятивный график -->
-![Cumulative CR Dynamics](images/cumulative_conversion.png)
+<a href="images/cumulative_conversion.png">
+  <img src="images/cumulative_conversion.png" width="500"/>
+</a>
+
+<!-- Кумулятивный график 
+![Cumulative CR Dynamics](images/cumulative_conversion.png)-->
 
 <details>
 <summary>🇺🇦 Читати українською</summary>
